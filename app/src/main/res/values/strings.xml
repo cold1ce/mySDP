@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">mySDP</string>
+    <string-array name="questionArray">
+        <item>-Leertext-</item>
+        <item>Entwickeln Sie für eine Behörde?</item>
+        <item>Wird erwartet, dass die Anforderungen über den Projektzeitraum konstant bleiben?</item>
+        <item>Mit welchem dieser Modelle haben Sie schon Erfahrung?</item>
+    </string-array>
+</resources>
+
